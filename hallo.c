@@ -10,6 +10,7 @@ void cleanup_module(void)
 {
 printk(KERN_INFO "End Hello world ...\n);
 }
+       printf("ok\n");
 
 
 
