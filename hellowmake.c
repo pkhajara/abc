@@ -2,5 +2,6 @@
 int main()
 {
  myPrintHelloMake();
+ printf("hjhjhdf\n");
 return(0);
 }
